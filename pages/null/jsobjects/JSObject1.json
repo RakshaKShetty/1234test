@@ -1,7 +1,6 @@
 {
   "unpublishedCollection": {
     "name": "JSObject1",
-    "pageId": "table_js Copy",
     "pluginId": "js-plugin",
     "pluginType": "JS",
     "actions": [],
@@ -9,7 +8,7 @@
     "body": "export default {\n\n\tmyFun1: () => {\n   let a = Query1.data\n\t return a\n\t},\n\t\n}",
     "variables": []
   },
-  "id": "table_js Copy_JSObject1",
+  "id": "null_JSObject1",
   "deleted": false,
   "gitSyncId": "62749143e257b32033aadde6_62749528e257b32033aade2a"
 }
