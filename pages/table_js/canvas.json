@@ -596,12 +596,21 @@
                         {
                           "boxShadow": "none",
                           "widgetName": "Canvas2",
+                          "detachFromLayout": true,
                           "displayName": "Canvas",
+                          "widgetId": "5dwanqmbuh",
+                          "accentColor": "{{appsmith.theme.colors.primaryColor}}",
                           "topRow": 0,
+                          "containerStyle": "none",
                           "parentRowSpace": 1,
+                          "isVisible": true,
                           "type": "CANVAS_WIDGET",
                           "canExtend": false,
+                          "version": 1,
                           "hideCard": true,
+                          "parentId": "xtuyzg29g4",
+                          "renderMode": "CANVAS",
+                          "isLoading": false,
                           "parentColumnSpace": 1,
                           "leftColumn": 0,
                           "dynamicBindingPathList": [
@@ -612,6 +621,7 @@
                               "key": "accentColor"
                             }
                           ],
+                          "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
                           "children": [
                             {
                               "boxShadow": "none",
@@ -845,17 +855,7 @@
                               "textStyle": "BODY"
                             }
                           ],
-                          "key": "mlc889xn4a",
-                          "detachFromLayout": true,
-                          "widgetId": "5dwanqmbuh",
-                          "accentColor": "{{appsmith.theme.colors.primaryColor}}",
-                          "containerStyle": "none",
-                          "isVisible": true,
-                          "version": 1,
-                          "parentId": "xtuyzg29g4",
-                          "renderMode": "CANVAS",
-                          "isLoading": false,
-                          "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}"
+                          "key": "mlc889xn4a"
                         }
                       ],
                       "borderWidth": "0",

@@ -5,14 +5,12 @@
     "Page1",
     "Public.users",
     "table_js",
-    "table_js Copy",
     "API"
   ],
   "publishedPageOrder": [
     "Page1",
     "Public.users",
     "table_js",
-    "table_js Copy",
     "API"
   ],
   "publishedDefaultPageName": "Page1",
@@ -39,18 +37,6 @@
       "publishedUserSetOnLoad": true
     },
     "Public.users_UpdateQuery": {
-      "unpublishedUserSetOnLoad": false,
-      "publishedUserSetOnLoad": false
-    },
-    "table_js Copy_JSObject1.myFun1": {
-      "unpublishedUserSetOnLoad": false,
-      "publishedUserSetOnLoad": false
-    },
-    "table_js Copy_JSObject1Copy.myFun1": {
-      "unpublishedUserSetOnLoad": false,
-      "publishedUserSetOnLoad": false
-    },
-    "table_js Copy_Query1": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
@@ -85,16 +71,10 @@
   "publishedLayoutmongoEscapedWidgets": {
     "table_js": [
       "Table1"
-    ],
-    "table_js Copy": [
-      "Table1"
     ]
   },
   "unpublishedLayoutmongoEscapedWidgets": {
     "table_js": [
-      "Table1"
-    ],
-    "table_js Copy": [
       "Table1"
     ]
   },
