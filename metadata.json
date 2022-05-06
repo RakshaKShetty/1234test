@@ -3,15 +3,27 @@
   "serverSchemaVersion": 4,
   "pageOrder": [
     "Page1",
-    "Public.users"
+    "Public.users",
+    "table_js",
+    "API"
   ],
   "publishedPageOrder": [
     "Page1",
-    "Public.users"
+    "Public.users",
+    "table_js",
+    "API"
   ],
   "publishedDefaultPageName": "Page1",
   "unpublishedDefaultPageName": "Page1",
   "invisibleActionFields": {
+    "API_Api1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "API_JSObject1.myFun1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
     "Public.users_DeleteQuery": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
@@ -25,6 +37,18 @@
       "publishedUserSetOnLoad": true
     },
     "Public.users_UpdateQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "table_js_JSObject1.myFun1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "table_js_JSObject1Copy.myFun1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "table_js_Query1": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     }
@@ -44,7 +68,15 @@
       }
     ]
   },
-  "publishedLayoutmongoEscapedWidgets": {},
-  "unpublishedLayoutmongoEscapedWidgets": {},
+  "publishedLayoutmongoEscapedWidgets": {
+    "table_js": [
+      "Table1"
+    ]
+  },
+  "unpublishedLayoutmongoEscapedWidgets": {
+    "table_js": [
+      "Table1"
+    ]
+  },
   "fileFormatVersion": 2
 }
