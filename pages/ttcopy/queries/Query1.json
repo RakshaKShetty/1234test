@@ -13,7 +13,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "table_js Copy",
+    "pageId": "ttcopy",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -109,7 +109,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "table_js Copy_Query1",
+  "id": "ttcopy_Query1",
   "deleted": false,
   "gitSyncId": "62749143e257b32033aadde6_62749528e257b32033aade26"
 }

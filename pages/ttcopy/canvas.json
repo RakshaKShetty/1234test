@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "table_js Copy",
-    "slug": "table-js-copy",
+    "name": "ttcopy",
+    "slug": "ttcopy",
     "layouts": [
       {
         "viewMode": false,
@@ -909,7 +909,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "table_js Copy_Query1",
+              "id": "ttcopy_Query1",
               "name": "Query1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -931,7 +931,7 @@
           "Text2"
         ],
         "validOnPageLoadActions": true,
-        "id": "table_js Copy",
+        "id": "ttcopy",
         "deleted": false,
         "policies": [],
         "userPermissions": []

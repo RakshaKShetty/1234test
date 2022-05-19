@@ -16,8 +16,8 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "table_js Copy",
-    "collectionId": "table_js Copy_JSObject1",
+    "pageId": "ttcopy",
+    "collectionId": "ttcopy_JSObject1",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -42,7 +42,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "table_js Copy_JSObject1.myFun1",
+  "id": "ttcopy_JSObject1.myFun1",
   "deleted": false,
   "gitSyncId": "62749143e257b32033aadde6_62749528e257b32033aade24"
 }

@@ -1,7 +1,7 @@
 {
   "unpublishedCollection": {
-    "name": "JSObject1Copy",
-    "pageId": "table_js Copy",
+    "name": "JSObject1",
+    "pageId": "ttcopy",
     "pluginId": "js-plugin",
     "pluginType": "JS",
     "actions": [],
@@ -9,7 +9,7 @@
     "body": "export default {\n\n\tmyFun1: () => {\n   let a = Query1.data\n\t return a\n\t},\n\t\n}",
     "variables": []
   },
-  "id": "table_js Copy_JSObject1Copy",
+  "id": "ttcopy_JSObject1",
   "deleted": false,
-  "gitSyncId": "62749143e257b32033aadde6_62749528e257b32033aade2c"
+  "gitSyncId": "62749143e257b32033aadde6_62749528e257b32033aade2a"
 }
